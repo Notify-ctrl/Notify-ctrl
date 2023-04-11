@@ -1,4 +1,4 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=UrNightmaree&color=cba6f7&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)
+![](https://komarev.com/ghpvc/?username=Notify-ctrl)
 
 闹够了没有？杀
 
